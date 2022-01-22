@@ -1,0 +1,5 @@
+- 👋 Olá, sou @Evanilson-Carvalho
+- 👀 Estou interessado em me tornar um profissional em progamação 
+- 🌱 atualmente estou aprendendo python e front end 
+- 💞️ procuro colaborar com as empresas de tecnologia
+- 📫 How to reach me ...
